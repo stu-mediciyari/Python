@@ -1,7 +1,7 @@
-# Python 🐍 (in costruzione)
+# Python (in costruzione)
 
 
-## Notebook Python 📖
+## Notebook Python
 
 1) [Variabili e Stringhe](https://notebooklm.google.com/notebook/6ea5865f-e338-405d-800e-a9238caeeaa3)
 2) [Cicli](https://notebooklm.google.com/notebook/9c7f263f-c4a2-460c-a0f1-40be61ce2f31)
@@ -13,3 +13,12 @@
 ## Colab (attualmente vuota)
 
 https://drive.google.com/drive/folders/1rSZL4ECiTjEwVk6zoeKgnUru-owGWadJ?usp=drive_link
+
+## Prossimi Passi
+
+Aree di studio e sezioni da aggiungere prossimamente:
+
+* [ ] **Programmazione Orientata agli Oggetti (OOP):** Classi, oggetti, eredità, polimorfismo.
+* [ ] **Moduli e Librerie Standard:** Importazione di moduli (es. `math`, `datetime`, `json`).
+* [ ] **Introduzione alle librerie di Data Science:** Brevi cenni su NumPy e Pandas.
+* [ ] **Ambienti Virtuali:** Come gestire le dipendenze di un progetto.
