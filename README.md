@@ -9,6 +9,7 @@
 4) [Dizionari](https://notebooklm.google.com/notebook/681c714d-a90c-4650-8759-aec5f6bfc375)
 5) [Funzioni](https://notebooklm.google.com/notebook/1ce4a5a9-5c8c-4e12-aebb-c29ed7c25734)
 6) [File e Eccezioni](https://notebooklm.google.com/notebook/c309a9ee-0af4-49e4-8947-7e1a46968a69)
+7) [OOP](https://notebooklm.google.com/notebook/e93e3807-cdbd-40aa-b7d4-b2e7e3ac0728)
 
 ## Colab (attualmente vuota)
 
@@ -18,7 +19,7 @@ https://drive.google.com/drive/folders/1rSZL4ECiTjEwVk6zoeKgnUru-owGWadJ?usp=dri
 
 Aree di studio e sezioni da aggiungere prossimamente:
 
-* [ ] **Programmazione Orientata agli Oggetti (OOP):** Classi, oggetti, eredità, polimorfismo.
+* [x] **Programmazione Orientata agli Oggetti (OOP):** Classi, oggetti, eredità, polimorfismo.
 * [ ] **Moduli e Librerie Standard:** Importazione di moduli (es. `math`, `datetime`, `json`).
 * [ ] **Introduzione alle librerie di Data Science:** Brevi cenni su NumPy e Pandas.
 * [ ] **Ambienti Virtuali:** Come gestire le dipendenze di un progetto.
